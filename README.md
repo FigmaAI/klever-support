@@ -6,6 +6,8 @@
 
 Welcome to the Klever Issue Tracker! This repository is dedicated to collecting feedback, bug reports, and feature requests from users of the Klever Figma plugin. Your input is invaluable in helping us improve Klever and make it an even more powerful tool for UI analysis powered by AI.
 
+![preview](./preview.gif)
+
 ## How to Report an Issue or Request a Feature
 
 To ensure that your feedback is addressed efficiently, we kindly ask you to follow these steps:
